@@ -1,0 +1,102 @@
+body {
+  text-indent: 10;
+  text-align: center;
+  font-family: ;
+  background-image: url(./image/newr.jeg);
+  background-size:cover;
+  
+}
+.main div{
+  margin-top:200px;
+  margin-bottom: 900px;
+}
+header {
+  text-align: left;
+
+}
+h1{
+  font-size: 3rem;
+  color:darkblue;
+  text-align: center;
+  margin: 0.2px;
+
+}
+h2{
+  color:blue;
+  margin: 0.2px;
+}
+h3{
+  color:rgb(22, 49, 46);
+  margin: 0.2px;
+}
+
+
+main {
+  margin-top: 5rem;
+  
+}
+
+.input-container {
+  font-family: protest riot;
+  margin-bottom: 20px;
+}
+
+
+
+button {
+  font-family: protest riot;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+a {
+  box-shadow: inset 0 0 0 0 #fdeb82;
+  color: hsl(60, 29%, 95%);
+  margin: 0 -.25rem;
+  padding: .70rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  text-decoration: none;
+}
+
+ 
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1.5rem;
+}
+
+
+.logos{
+  width: 2%;
+  mix-blend-mode: color-burn;
+}
+.nevbar{
+  display: flex;
+  width: 100%;
+  
+}
+.nevbar .logos{
+  width: ;
+  justify-content: flex-start;
+}
+.nevbar .links{
+  justify-content: flex-end;
+  padding-left: 800px;
+}
+img{
+  width: 450%;
+
+}
+.input{
+  font-family: protest riot;
+  height: 3rem;
+  width: ;
+}
+

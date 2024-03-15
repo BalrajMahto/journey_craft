@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    /* Add background color, text color, and other general styles here */
+  }
+  
+  header {
+    text-align: center;
+    /* Add header styling here */
+  }
+  
+  main {
+    /* Add main content styling here */
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  .links {
+    text-align: center;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+    margin: 0 10px;
+  }

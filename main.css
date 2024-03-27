@@ -22,7 +22,6 @@
     }
 }
 header {
-    display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
@@ -32,6 +31,8 @@ header {
     font-weight: bold;
     font-size: 40px;
     color:rgba(5, 0, 0, 0.929);
+    margin-left: 30px;
+    margin-top: 8px;
 }
 
 nav {
@@ -39,6 +40,8 @@ nav {
     justify-content: space-evenly;
     align-items: center;
     width: 40rem;
+    margin-left: 600px;
+    margin-top: -35px;
 }
 
 a {
@@ -113,7 +116,7 @@ h3 {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    height: 350px;
+    height: 330px;
     width: 100%;
     background-color: rgba(240, 248, 255, 0);
 }
@@ -204,6 +207,9 @@ img{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+}
+.details{
+    padding: 5px 10px;
 }
 .details{
     padding: 5px 10px;
@@ -300,16 +306,16 @@ body {
     font-size: 30px;
 }
 .footer1 a:hover {
-    background-color: rgb(3, 7, 12);
+    background-color: rgb(196, 201, 210);
     border-radius: 8px;
     color: rgb(196, 46, 73);
 }
 .footer2 a:hover {
-    background-color: rgb(23, 113, 155);
+    background-color: rgb(196, 201, 210);
     border-radius: 8px;
-    color: rgb(1, 5, 12);
+    color: rgb(16, 96, 216);
 }.footer3 a:hover {
-    background-color: rgb(1, 2, 4);
+    background-color: rgb(196, 201, 210);
     border-radius: 8px;
     color: rgb(12, 171, 228);
 }
